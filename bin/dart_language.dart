@@ -1,3 +1,9 @@
-void main(List<String> arguments) {
-  print('Hello world');
+import 'dart:io';
+
+void main() {
+  print("Enter your name:");
+
+  String? name = stdin.readLineSync();
+
+  print("Hello $name");
 }

@@ -1,0 +1,8 @@
+একটা Dart program লেখো যেখানে:
+
+তোমার নাম print করবে
+তোমার বয়স print করবে
+অন্তত ১টা comment থাকবে
+Expected Output (example):
+My name is Arif
+I am 22 years old

@@ -1,0 +1,6 @@
+| Type    | Change possible?  | Notes        |
+| ------- | ----------------- | ------------ |
+| var     | ❌ type change না  | auto detect  |
+| dynamic | ✅ change করা যায়  | flexible     |
+| final   | ❌ value change না | runtime set  |
+| const   | ❌ value change না | compile-time |

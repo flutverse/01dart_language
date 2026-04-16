@@ -1,0 +1,15 @@
+🔹 final
+final name = "Arif";
+
+🧠
+
+একবার assign করলে change করা যাবে না
+runtime-এ value set হতে পারে
+
+🔹 const
+const pi = 3.1416;
+
+🧠
+
+compile-time constant
+একদম fixed value (change impossible)

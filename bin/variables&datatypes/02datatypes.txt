@@ -1,0 +1,37 @@
+🔹 int (Integer)
+int a = 10;
+
+🧠 পূর্ণসংখ্যা (decimal ছাড়া)
+
+🔹 double
+double price = 99.99;
+
+🧠 দশমিক সংখ্যা
+
+🔹 num
+num x = 10;
+num y = 10.5;
+
+🧠 int + double দুইটাই রাখতে পারে
+
+🔹 String
+String name = "Arif";
+
+🧠 টেক্সট/লেখা রাখে
+
+🔹 bool
+bool isActive = true;
+
+🧠 true / false
+
+🔹 dynamic
+dynamic data = 10;
+data = "Hello";
+
+🧠 যেকোনো টাইপ নিতে পারে (change করা যায়)
+
+🔹 Object
+Object obj = "Hello";
+obj = 20;
+
+🧠 সবকিছুর parent type (সব type store করতে পারে)

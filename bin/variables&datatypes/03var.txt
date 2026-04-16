@@ -1,0 +1,11 @@
+var name = "Arif";
+
+🧠
+
+Dart নিজে টাইপ বুঝে নেয়
+একবার টাইপ ঠিক হলে পরে change করা যাবে না
+
+❌ ভুল:
+
+var name = "Arif";
+name = 10; // error
