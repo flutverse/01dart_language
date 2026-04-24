@@ -1,0 +1,81 @@
+🧪 🟢 Separate Tasks
+🔹 Task 1 (int, double, String)
+
+👉 ৩টা variable নাও:
+
+name
+age
+height
+print করো
+🔹 Task 2 (bool)
+
+👉 bool variable নাও
+
+true হলে print করো "Student"
+🔹 Task 3 (var)
+
+👉 var দিয়ে city নিয়ে print করো
+
+🔹 Task 4 (final & const)
+
+👉
+
+একটা final variable
+একটা const variable
+print করো
+🔹 Task 5 (dynamic)
+
+👉 dynamic variable নিয়ে:
+
+আগে string
+পরে number assign করো
+🔹 Task 6 (Object)
+
+👉 Object variable নিয়ে value change করো
+
+🔹 Task 7 (late)
+
+👉 late variable declare করে পরে assign করো
+
+🔥 🧪 Combined Task
+
+👉 একটা program লেখো যেখানে:
+
+🔹 Step 1:
+
+নিচের variable নাও:
+
+name (String)
+age (int)
+height (double)
+isStudent (bool)
+🔹 Step 2:
+var দিয়ে city
+final দিয়ে country
+const দিয়ে pi
+🔹 Step 3:
+dynamic variable নিয়ে value change করো
+🔹 Step 4:
+Object variable ব্যবহার করো
+🔹 Step 5:
+late variable ব্যবহার করো
+🔹 Step 6:
+
+সব print করো
+
+🎯 Expected Output (idea)
+Name: Arif
+Age: 22
+Height: 5.8
+Student: true
+City: Rajshahi
+Country: Bangladesh
+PI: 3.14
+Data: 100
+Object: 50
+Message: Welcome
+⚡ Tips
+var → type auto but fixed
+dynamic → change possible
+final vs const confuse কোরো না
+late use করলে আগে use করলে error হবে

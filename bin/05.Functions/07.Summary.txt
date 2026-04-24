@@ -1,0 +1,9 @@
+| Type        | Meaning            |
+| ----------- | ------------------ |
+| void        | কিছু return করে না |
+| return type | value পাঠায়        |
+| parameters  | input নেয়          |
+| optional [] | না দিলেও চলে       |
+| named {}    | নাম দিয়ে পাঠায়     |
+| default     | value set থাকে     |
+| =>          | short function     |

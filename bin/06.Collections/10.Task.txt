@@ -1,0 +1,54 @@
+🧪 🟢 Separate Tasks
+🔹 Task 1 (List)
+
+👉 ৫টা number নিয়ে list বানাও, ৩য় element print করো
+
+🔹 Task 2 (Set)
+
+👉 duplicate দিয়ে set বানাও, output দেখো
+
+🔹 Task 3 (Map)
+
+👉 name, age নিয়ে map বানাও, age print করো
+
+🔹 Task 4 (Spread)
+
+👉 ২টা list merge করো
+
+🔹 Task 5 (Collection if)
+
+👉 condition দিয়ে item add করো
+
+🔹 Task 6 (Collection for)
+
+👉 list এর number double করে নতুন list বানাও
+
+🔥 🧪 Combined Task
+
+👉 একটা program লেখো যেখানে:
+
+🔹 Step 1:
+List বানাও (numbers)
+🔹 Step 2:
+Set বানাও (duplicate সহ)
+🔹 Step 3:
+Map বানাও (name, age)
+🔹 Step 4:
+Spread দিয়ে নতুন list বানাও
+🔹 Step 5:
+Collection if ব্যবহার করো
+🔹 Step 6:
+Collection for দিয়ে নতুন list বানাও
+🎯 Expected Output (idea)
+[1, 2, 3]
+{1, 2, 3}
+{name: Arif, age: 22}
+[0, 1, 2, 3, 4]
+[Home, Profile]
+[2, 4, 6]
+⚡ Tips
+List → index use
+Set → unique
+Map → key দিয়ে access
+Spread → merge
+Collection if/for → powerful 🔥

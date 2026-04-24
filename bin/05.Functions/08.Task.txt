@@ -1,0 +1,45 @@
+🧪 🟢 Separate Tasks
+🔹 Task 1 (Basic function)
+
+👉 একটা function লেখো যা “Hello World” print করবে
+
+🔹 Task 2 (return)
+
+👉 2টা number যোগ করে return করো
+
+🔹 Task 3 (parameters)
+
+👉 function দিয়ে multiplication করো
+
+🔹 Task 4 (optional)
+
+👉 name না দিলে “Guest” print করবে
+
+🔹 Task 5 (named)
+
+👉 student info print করো (name, age)
+
+🔹 Task 6 (arrow)
+
+👉 subtraction function লিখো arrow style এ
+
+🔥 🧪 Combined Task (FINAL)
+
+👉 একটা program লেখো যেখানে:
+
+🔹 Functions:
+greet() → Hello print করবে
+add(a, b) → যোগ return করবে
+multiply(a, b) → arrow function
+student({name, age}) → info print করবে
+greetOptional([name]) → optional parameter
+🔹 main():
+সব function call করো
+user থেকে 2টা number input নাও
+add + multiply result print করো
+🎯 Expected Output
+Hello!
+Sum: 15
+Multiply: 20
+Name: Arif Age: 22
+Hello Guest

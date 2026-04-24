@@ -1,0 +1,73 @@
+🧪 🟢 Separate Tasks
+🔹 Task 1 (Input + Arithmetic)
+
+👉 2টা number নিয়ে:
+
+যোগ
+গুণ
+print করো
+🔹 Task 2 (Comparison)
+
+👉 2টা number নিয়ে বড় কোনটা print করো
+
+🔹 Task 3 (Logical)
+
+👉 age input নিয়ে check করো:
+
+age >= 18 AND number > 50
+🔹 Task 4 (Even/Odd)
+
+👉 number নিয়ে even/odd check করো
+
+🔹 Task 5 (Null-aware)
+
+👉
+
+String? name;
+
+default value দাও "Guest"
+
+🔹 Task 6 (Type Test)
+
+👉 check করো variable int কিনা
+
+🔥 🧪 Combined Task
+
+👉 একটা program লেখো যেখানে:
+
+🔹 Input:
+name
+age
+2টা number
+🔹 Logic:
+name print করো
+2টা number এর:
+যোগ
+বিয়োগ
+গুণ
+বড় কোনটা check করো
+even/odd check করো
+Logical use করো:
+age >= 18 AND number > 20
+null হলে name = "Guest" করো
+🎯 Expected Output (idea)
+Enter name: Arif
+Enter age: 22
+Enter a: 10
+Enter b: 5
+
+Hello Arif
+
+Sum: 15
+Sub: 5
+Mul: 50
+
+a is greater
+
+a is Even
+
+Eligible
+⚡ Tips
+int.parse() ভুলে যেও না
+% 2 == 0 → even
+?? → default value

@@ -1,0 +1,71 @@
+🧪 🟢 Separate Tasks (একটা একটা করে practice)
+🔹 Task 1 (if-else)
+
+👉 number input নিয়ে even/odd check করো
+
+🔹 Task 2 (else-if)
+
+👉 marks input নিয়ে grade দাও
+
+80+ → A
+60+ → B
+না হলে → Fail
+🔹 Task 3 (switch)
+
+👉 1–7 input নিয়ে weekday print করো
+
+🔹 Task 4 (for loop)
+
+👉 1–10 print করো
+
+🔹 Task 5 (while loop)
+
+👉 10–1 reverse print করো
+
+🔹 Task 6 (break)
+
+👉 1–10 print করো কিন্তু 6 এ stop
+
+🔹 Task 7 (continue)
+
+👉 1–10 এর মধ্যে শুধু even print করো
+
+🔥 🧪 Combined Task (সব একসাথে)
+
+👉 একটা program লেখো যেখানে:
+
+🔹 Input:
+নাম
+বয়স
+marks
+🔹 Logic:
+নাম print করো
+বয়স:
+
+=18 → Adult
+
+না হলে → Not Adult
+marks দিয়ে grade বের করো (if-else)
+1–10 print করো (for loop)
+শুধু odd number print করো (continue use)
+loop stop করো যখন number = 7 (break use)
+switch দিয়ে:
+1 → Morning
+2 → Afternoon
+3 → Night
+🎯 Expected Output (idea)
+Enter name: Arif
+Enter age: 20
+Enter marks: 75
+
+Hello Arif
+Adult
+Grade: B
+
+1 2 3 4 5 6 7 8 9 10
+
+1 3 5 7 9
+
+1 2 3 4 5 6
+
+Afternoon

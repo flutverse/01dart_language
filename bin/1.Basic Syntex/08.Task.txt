@@ -1,0 +1,74 @@
+🧪 🟢 Separate Tasks (একটা একটা করে practice)
+🔹 Task 1 (print)
+
+👉 ৩টা line print করো
+
+তোমার নাম
+তোমার city
+তোমার goal
+🔹 Task 2 (variables)
+
+👉 ৩টা variable নাও:
+
+name (String)
+age (int)
+height (double)
+print করো
+🔹 Task 3 (bool)
+
+👉 একটা bool variable নাও
+
+true হলে → "Yes" print করো
+🔹 Task 4 (var)
+
+👉 var দিয়ে variable নিয়ে print করো
+
+🔹 Task 5 (final & const)
+
+👉
+
+একটা final variable
+একটা const variable
+print করো
+🔹 Task 6 (dynamic)
+
+👉 dynamic variable নিয়ে value change করো
+
+🔥 🧪 Combined Task (সব একসাথে)
+
+👉 একটা program লেখো যেখানে:
+
+🔹 Step 1:
+comment ব্যবহার করো (single + multi)
+🔹 Step 2:
+
+নিচের variable নাও:
+
+name (String)
+age (int)
+height (double)
+isStudent (bool)
+🔹 Step 3:
+var দিয়ে city
+final দিয়ে country
+const দিয়ে pi
+🔹 Step 4:
+dynamic variable নাও
+value change করো
+🔹 Step 5:
+
+সব print করো সুন্দর format এ
+
+🎯 Expected Output (idea)
+Name: Arif
+Age: 22
+Height: 5.8
+Student: true
+City: Rajshahi
+Country: Bangladesh
+PI: 3.14
+Data: 100
+⚡ Rule
+
+❌ copy paste না
+✅ নিজে লিখো

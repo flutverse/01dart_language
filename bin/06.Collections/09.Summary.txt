@@ -1,0 +1,8 @@
+| Type | Use                |
+| ---- | ------------------ |
+| List | ordered, duplicate |
+| Set  | unique             |
+| Map  | key-value          |
+| ...  | spread             |
+| if   | condition add      |
+| for  | loop create        |
