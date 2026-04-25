@@ -1,0 +1,46 @@
+🧪 🟢 Separate Tasks
+🔹 Task 1
+
+👉 nullable variable নিয়ে print করো
+
+🔹 Task 2
+
+👉 ?? ব্যবহার করে default value দাও
+
+🔹 Task 3
+
+👉 ??= দিয়ে value assign করো
+
+🔹 Task 4
+
+👉 ?. ব্যবহার করে safe access করো
+
+🔹 Task 5
+
+👉 late variable declare করে পরে assign করো
+
+🔥 🧪 Combined Task
+
+👉 একটা program লেখো যেখানে:
+
+🔹 Step 1:
+name (nullable)
+age (nullable)
+🔹 Step 2:
+name null হলে "Guest" দাও
+🔹 Step 3:
+age null হলে 18 assign করো
+🔹 Step 4:
+name length safely print করো
+🔹 Step 5:
+late variable ব্যবহার করো
+🎯 Expected Output (idea)
+Name: Guest
+Age: 18
+Name length: null
+Message: Hello
+⚡ Tips
+অযথা ! use কোরো না ⚠️
+?? বেশি safe
+?. crash বাঁচায়
+late careful use

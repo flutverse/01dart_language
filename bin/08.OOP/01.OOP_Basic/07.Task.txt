@@ -1,0 +1,39 @@
+🧪 🟢 Separate Tasks
+🔹 Task 1
+
+👉 Person class বানাও (name, age)
+
+🔹 Task 2
+
+👉 constructor দিয়ে value assign করো
+
+🔹 Task 3
+
+👉 method বানাও (print info)
+
+🔹 Task 4
+
+👉 named constructor বানাও (guest)
+
+🔹 Task 5
+
+👉 factory constructor example বানাও
+
+🔥 🧪 Combined Task
+
+👉 একটা program লেখো যেখানে:
+
+🔹 Class:
+Person (name, age)
+🔹 Features:
+constructor
+named constructor (guest)
+method (show)
+🔹 main():
+2টা object বানাও
+একটায় normal constructor
+একটায় guest constructor
+দুইটার info print করো
+🎯 Expected Output
+Name: Arif Age: 22
+Name: Guest Age: 0

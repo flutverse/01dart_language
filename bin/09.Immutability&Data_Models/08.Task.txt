@@ -1,0 +1,44 @@
+🧪 🟢 Separate Tasks
+🔹 Task 1
+
+👉 immutable class বানাও (final fields)
+
+🔹 Task 2
+
+👉 const constructor ব্যবহার করো
+
+🔹 Task 3
+
+👉 copyWith method লিখো
+
+🔹 Task 4
+
+👉 == override করো
+
+🔹 Task 5
+
+👉 hashCode implement করো
+
+🔥 🧪 Combined Task
+
+👉 একটা program লেখো যেখানে:
+
+🔹 Class:
+Person (name, age)
+🔹 Features:
+final fields
+const constructor
+copyWith method
+equality override
+🔹 main():
+const object বানাও
+copyWith দিয়ে নতুন object বানাও
+equality check করো
+🎯 Expected Output
+true
+25
+⚡ Tips
+Flutter state management এ খুব important 🔥
+mutable object avoid করো
+copyWith = best practice
+equatable package use করলে সহজ হয়

@@ -1,0 +1,16 @@
+❌ Error 1
+String name;
+
+👉 Error: must assign value
+
+❌ Error 2
+String? name;
+print(name.length);
+
+👉 Error: null হতে পারে
+
+❌ Error 3
+String? name;
+print(name!.length);
+
+👉 Crash (runtime error)

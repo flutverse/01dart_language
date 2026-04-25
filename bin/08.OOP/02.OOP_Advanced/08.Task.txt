@@ -1,0 +1,52 @@
+🧪 🟢 Separate Tasks
+🔹 Task 1 (Encapsulation)
+
+👉 private variable + getter/setter বানাও
+
+🔹 Task 2 (Inheritance)
+
+👉 Animal → Dog class বানাও
+
+🔹 Task 3 (Polymorphism)
+
+👉 method override করো
+
+🔹 Task 4 (Abstraction)
+
+👉 abstract class + child class বানাও
+
+🔹 Task 5 (Interface)
+
+👉 implements ব্যবহার করো
+
+🔹 Task 6 (Mixin)
+
+👉 mixin add করে method use করো
+
+🔥 🧪 Combined Task (FINAL)
+
+👉 একটা program লেখো যেখানে:
+
+🔹 Class:
+Person (private name)
+Student extends Person
+🔹 Features:
+encapsulation (getter/setter)
+inheritance
+polymorphism (override show)
+abstract class (Animal)
+interface (Dog implements Animal)
+mixin (Study)
+🔹 main():
+object বানাও
+সব method call করো
+🎯 Expected Output (idea)
+Student: Arif
+Reading...
+Bark
+Khan
+⚡ Tips
+_ → private
+extends vs implements আলাদা
+override লিখতে ভুল কোরো না
+mixin → reusable logic
