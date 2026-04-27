@@ -1,0 +1,17 @@
+🔹 Enum Use:
+User role (admin, user)
+Order status (pending, done)
+API status
+🔹 Enhanced Enum Use:
+HTTP status code
+App state (loading, success, error)
+🔹 Extension Use:
+String helper (format, greet)
+int helper (even/odd)
+enum display text
+🧠 SUMMARY
+Concept	কাজ
+enum	fixed values
+enhanced enum	data + enum
+extension	class extend
+enum + extension	clean architecture

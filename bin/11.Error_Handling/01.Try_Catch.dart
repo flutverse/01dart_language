@@ -1,0 +1,11 @@
+void main() {
+  try {
+    int result = 10 ~/ 0;
+    print(result);
+  } catch (e) {
+    print("Error: $e");
+  }
+}
+// 🧠 ব্যাখ্যা:
+// try → risky code
+// catch → error ধরবে

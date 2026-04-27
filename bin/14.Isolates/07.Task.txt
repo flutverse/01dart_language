@@ -1,0 +1,36 @@
+🧪 🟢 Separate Tasks
+🔹 Task 1
+
+👉 একটা heavy loop isolate-এ চালাও
+
+🔹 Task 2
+
+👉 SendPort দিয়ে data পাঠাও
+
+🔹 Task 3
+
+👉 ReceivePort দিয়ে receive করো
+
+🔹 Task 4
+
+👉 compute() দিয়ে simple calculation করো
+
+🔥 🧪 Combined Task
+
+👉 একটা program লেখো যেখানে:
+
+🔹 Step:
+background isolate বানাও
+1 → 1,000,000 পর্যন্ত sum করো
+result main isolate-এ পাঠাও
+main isolate continue print করো
+(optional) compute দিয়ে square বের করো
+🎯 Expected Output
+Start
+Main continues...
+Sum: 500000500000
+⚡ Tips
+isolate = real parallel 🔥
+memory share হয় না
+communication via port
+Flutter-এ compute easy

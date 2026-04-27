@@ -1,0 +1,43 @@
+🧪 🟢 Separate Tasks
+🔹 Task 1
+
+👉 1-5 stream বানাও
+
+🔹 Task 2
+
+👉 listen দিয়ে print করো
+
+🔹 Task 3
+
+👉 subscription cancel করো
+
+🔹 Task 4
+
+👉 broadcast stream বানাও
+
+🔹 Task 5
+
+👉 StreamController ব্যবহার করো
+
+🔥 🧪 Combined Task
+
+👉 একটা program লেখো যেখানে:
+
+🔹 Step:
+number stream (1-5)
+broadcast বানাও
+2টা listener add করো
+StreamController দিয়ে data add করো
+শেষে close করো
+🎯 Expected Output (idea)
+A: 1
+B: 1
+A: 2
+B: 2
+...
+Controller: Hello
+Controller: World
+⚡ Tips
+Stream → real-time data (chat, sensor)
+broadcast → multi listener
+controller → advanced control

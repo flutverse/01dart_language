@@ -1,0 +1,12 @@
+void main() {
+  Role r = Role.user;
+
+  if (r == Role.admin) {
+    print("Admin access");
+  } else {
+    print("User access");
+  }
+}
+🧠 ব্যাখ্যা:
+comparison clean হয়
+switch-এ বেশি ব্যবহার হয়

@@ -1,0 +1,42 @@
+🧪 🟢 Separate Tasks
+🔹 Task 1
+
+👉 try-catch দিয়ে division error handle করো
+
+🔹 Task 2
+
+👉 on ব্যবহার করে specific error ধরো
+
+🔹 Task 3
+
+👉 finally ব্যবহার করো
+
+🔹 Task 4
+
+👉 throw দিয়ে error তৈরি করো
+
+🔹 Task 5
+
+👉 custom exception class বানাও
+
+🔥 🧪 Combined Task
+
+👉 একটা program লেখো যেখানে:
+
+🔹 Input:
+user থেকে age নাও
+2টা number নাও
+🔹 Logic:
+division করো (error handle)
+age check করো:
+<18 হলে custom exception throw
+specific error handle করো
+finally use করো
+🎯 Expected Output (idea)
+Divide by zero error
+Error: Age must be 18+
+Done
+⚡ Tips
+on আগে, catch পরে
+সব error catch না করে specific ধরো
+custom exception → clean code

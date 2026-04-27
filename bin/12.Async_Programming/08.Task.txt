@@ -1,0 +1,40 @@
+🧪 🟢 Tasks
+🔹 Task 1
+
+👉 Future দিয়ে 2 sec delay message print করো
+
+🔹 Task 2
+
+👉 async/await দিয়ে function call করো
+
+🔹 Task 3
+
+👉 then() ব্যবহার করো
+
+🔹 Task 4
+
+👉 error throw করে try-catch দিয়ে ধরো
+
+🔹 Task 5
+
+👉 2টা async function call করো (one after another)
+
+🔥 🧪 Final Combined Task
+
+👉 একটা program লেখো যেখানে:
+
+🔹 Step:
+login() → "Login Success" (2 sec delay)
+loadData() → "Data Loaded" (1 sec delay)
+async/await দিয়ে call করো
+try-catch ব্যবহার করো
+then() দিয়েও call করো
+🎯 Expected Output
+Start
+Login Success
+Data Loaded
+End
+⚡ Tips
+async/await → best practice 🔥
+await ছাড়া async incomplete
+সব async code-এ error handle করো

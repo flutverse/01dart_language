@@ -1,0 +1,92 @@
+🧪 🟢 Separate Tasks
+🔹 Task 1: Enum Basic
+
+👉 একটা enum বানাও:
+
+Role → admin, user, guest
+
+👉 print করো:
+
+Role.admin
+🔹 Task 2: Enum + Condition
+
+👉 Role check করো:
+
+admin → "Full Access"
+user → "Limited Access"
+guest → "No Access"
+🔹 Task 3: Enhanced Enum
+
+👉 একটা enum বানাও:
+
+Status → success(200), error(500), loading(100)
+
+👉 print করো:
+
+status.code
+🔹 Task 4: Extension on String
+
+👉 extension বানাও:
+
+"Arif" → "Hello Arif"
+🔹 Task 5: Extension on int
+
+👉 extension বানাও:
+
+even/odd check (true/false)
+🔹 Task 6: Enum + Extension
+
+👉 Role enum এর জন্য extension বানাও:
+
+admin → "Administrator"
+user → "Normal User"
+guest → "Guest User"
+🔥 🧪 Combined Task (FINAL)
+
+👉 একটা complete program লেখো যেখানে:
+
+🔹 Step 1:
+
+enum বানাও:
+
+Role → admin, user, guest
+🔹 Step 2:
+
+enhanced enum বানাও:
+
+Status → success(200), error(500)
+🔹 Step 3:
+
+Role এর জন্য extension বানাও:
+
+displayName return করবে
+🔹 Step 4:
+
+Status এর জন্য extension বানাও:
+
+message return করবে ("Success", "Error")
+🔹 Step 5:
+
+String extension:
+
+greet → "Hello Name"
+🔹 Step 6:
+
+int extension:
+
+isEven → true/false
+🔹 Step 7 (main):
+Role.admin print করো (displayName)
+Status.success print করো (code + message)
+greet use করো
+even check করো
+🎯 Expected Output (idea)
+Administrator
+200
+Success
+Hello Arif
+true
+⚡ Tips
+enum + extension = clean code 🔥
+enhanced enum = real project use
+extension = reusable
