@@ -1,0 +1,40 @@
+🧪 🟢 Separate Tasks
+🔹 Task 1
+
+👉 pubspec.yaml বানাও (name + sdk)
+
+🔹 Task 2
+
+👉 http dependency add করো
+
+🔹 Task 3
+
+👉 dev_dependencies-এ lints add করো
+
+🔹 Task 4
+
+👉 version constraint ৩ভাবে লিখো
+
+🔹 Task 5
+
+👉 command লিখো:
+
+install
+update
+check outdated
+🔥 🧪 Combined Task
+
+👉 একটা project setup করো যেখানে:
+
+🔹 Step:
+pubspec.yaml বানাও
+dependency add করো (http)
+dev dependency add করো
+version constraint use করো
+API call করো
+🎯 Expected Output
+200
+⚡ Tips
+^ ব্যবহার করো (best practice)
+any avoid করো ❌
+pub.dev use করো 🔥

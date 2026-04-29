@@ -1,0 +1,41 @@
+🧪 🟢 Tasks
+🔹 Task 1
+
+👉 একটা GET request করো
+
+🔹 Task 2
+
+👉 status code check করো
+
+🔹 Task 3
+
+👉 JSON parse করে title print করো
+
+🔹 Task 4
+
+👉 POST request করো
+
+🔹 Task 5
+
+👉 try-catch দিয়ে error handle করো
+
+🔥 🧪 Final Combined Task
+
+👉 একটা program লেখো যেখানে:
+
+🔹 Step:
+API call (GET)
+status check
+JSON parse
+title + body print
+POST request
+error handle
+🎯 Expected Output (idea)
+Title: ...
+Body: ...
+Success
+⚡ Real Tips (important 🔥)
+সব সময় statusCode check করো
+try-catch use করো
+JSON parse বুঝো (Flutter-এ খুব লাগবে)
+API ছাড়া app useless প্রায়

@@ -1,0 +1,102 @@
+🧠 🔰 File Handling আসলে কী?
+
+👉 সহজ ভাষায়:
+
+File Handling = কম্পিউটারের ভিতরে ডাটা save করা এবং আবার পড়া
+
+📌 Example:
+
+তুমি notes লিখলে → file-এ save
+পরে আবার খুলে পড়লে → file থেকে read
+📦 🔰 Step 1: File ধরো (Create/Reference)
+import 'dart:io';
+
+void main() {
+  var file = File('test.txt');
+}
+🧠 ব্যাখ্যা:
+File('test.txt') → একটা file ধরলাম
+এখন এই file দিয়ে কাজ করবো
+
+👉 এখনো file তৈরি হয়নি, শুধু reference তৈরি হয়েছে
+
+✍️ 🔰 Step 2: File-এ লেখা (WRITE)
+import 'dart:io';
+
+void main() async {
+  var file = File('test.txt');
+
+  await file.writeAsString("Hello Dart");
+}
+🧠 কী হলো?
+
+👉 file-এ লিখে দিলো:
+
+Hello Dart
+
+📌 যদি file না থাকে → নিজে তৈরি হবে
+
+📖 🔰 Step 3: File থেকে পড়া (READ)
+import 'dart:io';
+
+void main() async {
+  var file = File('test.txt');
+
+  String content = await file.readAsString();
+
+  print(content);
+}
+🧠 Output:
+Hello Dart
+⚠️ 🔰 Step 4: Problem (Overwrite issue)
+await file.writeAsString("New Data");
+
+👉 পুরোনো data মুছে যাবে ❌
+
+➕ 🔰 Step 5: Add data (Append)
+await file.writeAsString(
+  "New Line\n",
+  mode: FileMode.append,
+);
+🧠 ব্যাখ্যা:
+আগের data থাকবে
+নতুন data add হবে
+📄 🔰 Step 6: Full Example (Write + Read)
+import 'dart:io';
+
+void main() async {
+  var file = File('test.txt');
+
+  await file.writeAsString("Line 1\n");
+  await file.writeAsString("Line 2\n", mode: FileMode.append);
+
+  String data = await file.readAsString();
+
+  print(data);
+}
+📌 🔰 Step 7: Line by line read
+var lines = await file.readAsLines();
+
+for (var line in lines) {
+  print(line);
+}
+🧠 Output:
+Line 1
+Line 2
+🔍 🔰 Step 8: File exists check
+if (await file.exists()) {
+  print("File আছে");
+} else {
+  print("File নেই");
+}
+🗑️ 🔰 Step 9: File delete
+await file.delete();
+🧠 🔥 Simple Mental Model
+
+👉 File handling = 4 কাজ
+
+কাজ	Method
+লেখা	writeAsString
+পড়া	readAsString
+যোগ করা	append
+মুছে ফেলা	delete

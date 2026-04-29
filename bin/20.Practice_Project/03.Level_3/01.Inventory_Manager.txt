@@ -1,0 +1,11 @@
+👉 Features:
+
+add product
+update stock
+low stock alert
+
+👉 Use:
+
+Map / List
+OOP
+file handling

@@ -1,0 +1,8 @@
+🧠 SUMMARY
+Concept	                Meaning
+pubspec.yaml	        cnfig file
+dependencies	        runtime package
+dev_dependencies	    dev tools
+^	                    compatible version
+pub get	                install
+pub upgrade	            update

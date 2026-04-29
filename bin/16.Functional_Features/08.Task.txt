@@ -1,0 +1,44 @@
+🧪 🟢 Separate Tasks
+🔹 Task 1
+
+👉 function variable-এ assign করো
+
+🔹 Task 2
+
+👉 list.forEach দিয়ে print করো
+
+🔹 Task 3
+
+👉 higher-order function বানাও
+
+🔹 Task 4
+
+👉 function return function বানাও
+
+🔹 Task 5
+
+👉 closure বানাও (counter)
+
+🔥 🧪 Combined Task
+
+👉 একটা program লেখো যেখানে:
+
+🔹 Step:
+function variable ব্যবহার
+anonymous function ব্যবহার
+higher-order function ব্যবহার
+function return function
+closure (counter)
+🎯 Expected Output (idea)
+Hello
+2
+4
+6
+Running
+15
+1
+2
+⚡ Tips
+Dart = functional + OOP 🔥
+closure = state management base
+Flutter-এ callback everywhere

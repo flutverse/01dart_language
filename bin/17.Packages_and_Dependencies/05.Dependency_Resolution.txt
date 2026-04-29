@@ -1,0 +1,9 @@
+👉 যখন multiple package different version চায়:
+
+A → http 0.13
+B → http 0.12
+
+👉 Dart automatically resolve করে:
+
+compatible version pick করে
+conflict হলে error দেয়

@@ -1,0 +1,8 @@
+👉 Features:
+
+data save in file
+read/update/delete
+
+👉 Use:
+
+file handling + JSON

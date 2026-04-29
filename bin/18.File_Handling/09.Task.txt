@@ -1,0 +1,42 @@
+🧪 🟢 Tasks
+🔹 Task 1
+
+👉 একটি file তৈরি করে "Hello" লিখো
+
+🔹 Task 2
+
+👉 file থেকে data read করো
+
+🔹 Task 3
+
+👉 append করে "World" যোগ করো
+
+🔹 Task 4
+
+👉 file exists check করো
+
+🔹 Task 5
+
+👉 line by line print করো
+
+🔥 🧪 Final Combined Task
+
+👉 একটা program লেখো যেখানে:
+
+🔹 Step:
+students.txt file create করো
+৩টা student name লিখো
+নতুন ১টা name append করো
+সব data read করো
+line by line print করো
+file exists check করো
+🎯 Expected Output
+Arif
+Khan
+Rahim
+Karim
+true
+⚡ Tips
+async/await use করো
+file path ঠিক রাখো
+real project-এ JSON file use হয়

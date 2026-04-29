@@ -1,0 +1,11 @@
+👉 Features:(console based)
+
+add task
+view task
+delete task
+
+👉 Use:
+
+List
+loop
+switch

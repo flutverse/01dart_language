@@ -1,0 +1,13 @@
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^2.0.0
+
+# 🧠 ব্যাখ্যা:
+# development time-এ লাগে
+# app run-এ লাগে না
+
+# 👉 example:
+
+# testing
+# code formatting
+# lint rules

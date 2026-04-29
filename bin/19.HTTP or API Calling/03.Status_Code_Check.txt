@@ -1,0 +1,9 @@
+//Dart
+if(respons.statusCode == 200) {
+  print("Success");
+} else {
+  print("Error");
+}
+🧠 ব্যাখ্যা:
+200 → success
+404/500 → error

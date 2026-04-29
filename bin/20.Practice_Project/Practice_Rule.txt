@@ -1,0 +1,26 @@
+👉 প্রতিটা project-এ:
+
+❌ copy-paste না
+✅ নিজে লিখো
+✅ error করো → fix করো
+⚡ Real Skill Booster
+
+👉 Level up করতে চাইলে:
+
+file save করো
+JSON use করো
+error handle করো
+🔥 Final Challenge
+
+👉 তুমি এখন এইটা বানাও:
+
+🧪 FINAL PROJECT:
+
+Inventory Manager (Console)
+
+🔹 Features:
+add product
+update stock
+show all products
+low stock alert
+file save/load

@@ -1,0 +1,15 @@
+//pubspec.yaml (project config file)
+name: my_app
+description: A sample project
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  http: ^0.13.0
+
+dev_dependencies:
+  lints: ^2.0.0
+# 🧠 ব্যাখ্যা:
+# এটা project এর main config file
+# এখানে dependency, version, sdk সব define করা হয়

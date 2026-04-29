@@ -1,0 +1,41 @@
+🧪 🟢 Separate Tasks
+🔹 Task 1
+
+👉 Box<T> class বানাও
+
+🔹 Task 2
+
+👉 generic function বানাও (first element return)
+
+🔹 Task 3
+
+👉 Pair<K,V> class বানাও
+
+🔹 Task 4
+
+👉 constraint দাও (num only)
+
+🔹 Task 5
+
+👉 List<int> নিয়ে type safety test করো
+
+🔥 🧪 Combined Task
+
+👉 একটা program লেখো যেখানে:
+
+🔹 Step:
+Box<T> class বানাও
+Pair<K,V> class বানাও
+generic function বানাও
+NumberBox<T extends num> বানাও
+সব use করো
+🎯 Expected Output (idea)
+Value: 10
+Value: Arif
+3
+B
+5.5
+⚡ Tips
+generics = reusable code 🔥
+Flutter (ListView, Future<T>) এ খুব important
+constraint ব্যবহার করো

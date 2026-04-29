@@ -1,0 +1,14 @@
+Bash": 
+dart pub get
+
+👉 dependency download
+
+Bash:
+dart pub upgrade
+
+👉 update version
+
+Bash:
+dart pub outdated
+
+👉 outdated package check

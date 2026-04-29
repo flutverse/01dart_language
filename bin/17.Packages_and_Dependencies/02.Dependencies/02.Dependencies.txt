@@ -1,0 +1,9 @@
+//yaml
+dependencies:
+  http: ^0.13.0
+//dart
+import 'package:http/http.dart' as http;
+
+🧠 ব্যাখ্যা:
+app run করার জন্য দরকার
+example: API call, database, UI packages

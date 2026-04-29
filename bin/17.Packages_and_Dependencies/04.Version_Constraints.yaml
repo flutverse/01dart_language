@@ -1,0 +1,12 @@
+http: ^0.13.0
+
+# 🧠 ব্যাখ্যা:
+# ^ → compatible version allow
+
+# 👉 মানে:
+# >=0.13.0 <0.14.0
+
+# 🔹 Other types
+http: 0.13.0     # exact
+http: '>=0.12.0 <0.14.0'  # range
+http: any  # latest (not recommended)

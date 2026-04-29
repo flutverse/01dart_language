@@ -1,0 +1,5 @@
+👉 Features:
+
+number input
+even/odd check
+prime number

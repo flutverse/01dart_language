@@ -1,0 +1,8 @@
+pubspec.yaml এ:
+
+dependencies:
+  http: ^0.13.0
+
+👉 তারপর run:
+
+dart pub get
